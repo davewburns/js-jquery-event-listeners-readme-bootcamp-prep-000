@@ -15,7 +15,11 @@ function frameIt() {
 }
 
 function pressIt(){
-  $('input');
+  $('input').on('', function(G){
+    
+    
+    
+  })
 }
 
 function submitIt(){
