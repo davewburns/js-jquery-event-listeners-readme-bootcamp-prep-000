@@ -2,7 +2,9 @@
 
 $(document).ready(function(){
 
-
+function getIt() {
+  $('p').on("click")
+}
 
 
 // call functions here
