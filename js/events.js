@@ -17,7 +17,7 @@ function pressIt(){
     if (k.which == 71){
       alert('G was pressed');
     }
-  })
+  });
 }
 
 function submitIt(){
