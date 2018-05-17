@@ -14,6 +14,9 @@ function frameIt() {
   })
 }
 
+function pressIt(){
+  $('input')
+}
 
 // call functions here
 
