@@ -4,25 +4,25 @@ $(document).ready(function(){
 
 function getIt() {
   $('p').on("click", function() {
-    alert("Hey!")
-  })
+    alert("Hey!");
+  });
 }
 
 function frameIt() {
   $('img').on('load', function(){
-    $('.img').addClass('tasty')
-  })
+    $('.img').addClass('tasty');
+  });
 }
 
 function pressIt(){
-  $('input')
+  $('input');
 }
 
 function submitIt(){
   $('form').on('submit'), function() {
-    re
+    alert('Your form is going to be submitted now.');
     
-  }
+  };
 }
 
 // call functions here
