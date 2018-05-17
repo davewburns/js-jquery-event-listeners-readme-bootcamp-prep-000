@@ -8,6 +8,13 @@ function getIt() {
   })
 }
 
+function frameIt() {
+  $('img').on('load', function(){
+    
+    
+  })
+}
+
 
 // call functions here
 
