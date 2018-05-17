@@ -1,6 +1,6 @@
 //define functions here
 
-$(document).ready(function(){
+
 
 function getIt() {
   $('p').on("click", function() {
@@ -25,6 +25,9 @@ function submitIt(){
   };
 }
 
+
+$(document).ready(function(){
+  
 // call functions here
 
 });
