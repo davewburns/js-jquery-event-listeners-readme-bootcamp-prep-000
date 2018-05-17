@@ -18,6 +18,13 @@ function pressIt(){
   $('input')
 }
 
+function submitIt(){
+  $('form').on('submit'), function() {
+    re
+    
+  }
+}
+
 // call functions here
 
 });
